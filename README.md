@@ -6,7 +6,7 @@ A modern, feature-rich todo application built with React Native and Expo. Manage
 
 ### Main Screen
 <p align="center">
-  <img src="./screenshots/Screenshot%202025-11-27%20at%209.35.15%20PM.png" alt="Todo App Main Screen" width="400"/>
+  <img src="./screenshots/main-screen.png" alt="Todo App Main Screen" width="400"/>
 </p>
 <p align="center">
   <em>Main Todo Screen with Filter Options and Todo List</em>
@@ -14,7 +14,7 @@ A modern, feature-rich todo application built with React Native and Expo. Manage
 
 ### Todo Management
 <p align="center">
-  <img src="./screenshots/Screenshot%202025-11-27%20at%209.35.43%20PM.png" alt="Todo App Features" width="400"/>
+  <img src="./screenshots/todo-management.png" alt="Todo App Features" width="400"/>
 </p>
 <p align="center">
   <em>Todo Management Interface with Add/Edit Functionality</em>
