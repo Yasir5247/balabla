@@ -1,3 +1,5 @@
+import { TodoStore, Todo, TodoFilter } from './todo-store';
+
 export type UIAppearance = "System" | "Light" | "Dark";
 export type AppearanceMode = "light" | "dark";
 
@@ -16,3 +18,5 @@ export interface IService {
 export interface IStore {
   hydrate?: () => PVoid;
 }
+
+export type { Todo, TodoFilter };

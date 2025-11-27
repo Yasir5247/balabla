@@ -2,15 +2,14 @@ import React from 'react';
 
 import './_hydration';
 
-import { AuthStore, TokenType, AuthStatus } from './auth-store';
+import { TodoStore } from './todo-store';
 import { IStore, PVoid } from './types';
 
 // Re-export types
-export type { TokenType, AuthStatus };
 
 // Centralized stores object
 class Stores {
-  auth = new AuthStore()
+  todo = new TodoStore();
 };
 
 export const stores = new Stores();
